@@ -1,0 +1,322 @@
+[
+    {
+        "id" : 1,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"The Empire",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["kunal kapoor","drasti dhami","shabana azmi"],
+        "image" :"https://i.ibb.co/JyZKcpc/Disney-plus-hotstar-The-Empire-1.jpg"
+    },
+    {
+        "id" : 2,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"The legend of hanuman",
+        "rating" :4.8,
+        "runtime" :3,
+        "starcast" : ["sarad kelkar","sanket mhatre","amit deondi"],
+        "image" :"https://i.ibb.co/Kxsd0pw/hanuman-d.jpg"
+    },
+    {
+        "id" : 3,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"city of dreams",
+        "rating" :4.8,
+        "runtime" :2.3,
+        "starcast" : ["atul kulkarni","priya bapat","eijaz khan"],
+        "image" :"https://i.ibb.co/TRhkV2X/City-Of-Dreams-season-2.jpg"
+    },
+    {
+        "id" : 4,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"grahan",
+        "rating" :4.8,
+        "runtime" :2.3,
+        "starcast" : ["Pavan Malhotra", "Zoya Hussain","Wamiqa Gabbi"],
+        "image" :"https://i.ibb.co/JzBGJyD/Grahan-poster-d.jpg"
+    },
+    {
+        "id" : 5,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"november story",
+        "rating" :4.3,
+        "runtime" :7,
+        "starcast" : ["Tamannaah Bhatia", "G.M.Kumar","Pasupathy"],
+        "image" :"https://i.ibb.co/gZ2mVB9/bg.jpg"
+    },
+    {
+        "id" : 6,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"out of love",
+        "rating" :4.3,
+        "runtime" :6,
+        "starcast" : ["Rasika Dugal","Dr. Meera Kapoor","Purab Kohli"],
+        "image" :"https://i.ibb.co/L5rhQ2Y/out-of-love-1.png"
+    },
+    {
+        "id" : 7,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"ok computer",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Vijay Varma","Radhika Apte","Kani Kusruti"],
+        "image" :"https://i.ibb.co/sqy00RP/ok-computer-cover.jpg"
+    },
+    {
+        "id" : 8,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"1232 KMs",
+        "rating" :3.6,
+        "runtime" :6,
+        "starcast" : ["Ritesh Kumar Pandit", "Ashish Kumar", "Ram Babu Pandit"],
+        "image" :"https://i.ibb.co/fCfLMxB/maxresdefault.jpg"
+    },
+    {
+        "id" : 9,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"live telecast",
+        "rating" :4.3,
+        "runtime" :7,
+        "starcast" : ["Kajal Aggarwal", "Anandhi", "Premgi Amaren"],
+        "image" :"https://i.ibb.co/WV6xV1r/maxresdefault-1.jpg"
+    },
+    {
+        "id" : 10,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"criminal justice: behind closed doors",
+        "rating" :4.6,
+        "runtime" :8,
+        "starcast" : ["Pankaj Tripathi","Kirti Kulhari","Deepti Naval"],
+        "image" :"https://i.ibb.co/n8d3Sm5/criminal-justice.jpg"
+    },
+    {
+        "id" : 11,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"triples",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Vani Bhojan", "Jai", "Madhuri Jain"],
+        "image" :"https://i.ibb.co/MnjVQ6w/1637b48e641de14fee34b760a8b9d759.jpg"
+    },
+    {
+        "id" : 12,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"Bahut hua sammaan",
+        "rating" :4.2,
+        "runtime" :7,
+        "starcast" : ["Sanjay Mishra", "Ram Kapoor", "Swanand Kirkire"],
+        "image" :"https://i.ibb.co/xHk7MKP/maxresdefault-2.jpg"
+    },
+    {
+        "id" : 13,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"Hostages",
+        "rating" :3.9,
+        "runtime" :5,
+        "starcast" : ["Ronit Roy","Divya Dutta","Dino Morea"],
+        "image" :"https://i.ibb.co/W2L8z0P/maxresdefault-3.jpg"
+    },
+    {
+        "id" : 14,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"Aarya",
+        "rating" :4.6,
+        "runtime" :4,
+        "starcast" : ["Sushmita Sen", "Chandrachur Singh", "Vikas Kumar"],
+        "image" :"https://i.ibb.co/yprtKH5/Aarya-Hotstar-Review-1024x597.jpg"
+    },
+    {
+        "id" : 15,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"Hundred",
+        "rating" :3.6,
+        "runtime" :8,
+        "starcast" : ["Lara Dutta", "Rinku Rajguru", "Karan Wahi"],
+        "image" :"https://i.ibb.co/KyFqTMK/main-qimg-0b5348ae2d9c39d7052ff5479a9c0ab0.png"
+    },
+    {
+        "id" : 16,
+        "category_id" : 1,
+        "subcategory_id" : 1,
+        "name" :"Special ops",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Kay Kay Menon", "Karan Ashar", "Rajat Kaul"],
+        "image" :"https://i.ibb.co/2M2c1ft/maxresdefault-4.jpg"
+    },
+    {
+        "id" : 17,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Kanpuriye",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Aparshakti Khurana", "Divyendu Sharma","Harsh Mayar"],
+        "image" :"https://i.ibb.co/NYDsvJ1/maxresdefault-5.jpg"
+    },
+    {
+        "id" : 18,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Chhappad phad ke",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Vinay Pathak", "Ayesha Raza Mishra", "Sheetal Thakur"],
+        "image" :"https://i.ibb.co/bd8GtZs/h-EHb-IQZk-Gb-Xg-H1h-D982hs-GTQR4a.jpg"
+    },
+    {
+        "id" : 19,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"The office",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Mukul Chadda","Gopal Datt","Sayandeep Sengupta"],
+        "image" :"https://i.ibb.co/BNG0cjT/4pasdy6kd0731.jpg"
+    },
+    {
+        "id" : 20,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Criminal justice",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Pankaj Tripathi", "Vikrant Massey", "Jackie Shroff"],
+        "image" :"https://i.ibb.co/z4z8WPW/chilling-moments-from-hotstars-drama-criminal-justice.jpg"
+    },
+    {
+        "id" : 21,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Ankahi ansuni",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Paresh Pahuja", "Veebha Anand"],
+        "image" :"https://i.ibb.co/ZNZM1bZ/maxresdefault-6.jpg"
+    },
+    {
+        "id" : 22,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Bamini and boys",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Vidya Malvade", "Akashdeep Arora", "Rishab Chadha"],
+        "image" :"https://i.ibb.co/pnf7yx9/MV5-BNz-Q3-NTNl-MDUt-MTZl-Yy00-NTkz-LWE0-Njgt-MDU1-MDNk-Nzg5-MTE3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDAz-Mz.jpg"
+    },
+    {
+        "id" : 23,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Shit yaar",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Rk Gaura", "Vrajesh Hirjee", "Jiten Mukhi"],
+        "image" :"https://i.ibb.co/tc9PJG8/shit-yar-poster.jpg"
+    },
+    {
+        "id" : 24,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Gumrah",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Karan Kundra", "Abhay Deol", "Jannat Zubair Rahmani"],
+        "image" :"https://i.ibb.co/P1MZCD6/gumrah-cover.jpg"
+    },
+    {
+        "id" : 25,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Target",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Shamata Anchan", "Manish Choudhary", "Diganta Hazarika"],
+        "image" :"https://i.ibb.co/42tzqdk/MV5-BYj-Iy-Yz-My-Mz-At-MTMy-NS00-Nj-M3-LWE4-Nj-Yt-N2-Q2-ODlk-Njg4-OGE5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-ND.jpg"
+    },
+    {
+        "id" : 26,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Daav",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Vatsal Sheth", "Sanjeeda Sheikh", "Ayub Khan"],
+        "image" :"https://i.ibb.co/6rMfvby/daav-quix.jpg"
+    },
+    {
+        "id" : 27,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Kota toppers",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Nikhil Sonkeshariya", "Luv Vispute", "Rishab Chadha"],
+        "image" :"https://i.ibb.co/RjWSF36/MV5-BYj-Qz-Y2-E1-Zm-Ut-Yj-E4-Zi00-Mz-E5-LThh-OGYt-NDY2-N2-Y1-Nm-Nm-MGIz-Xk-Ey-Xk-Fqc-Gde-QXVy-Njgx-M.jpg"
+    },
+    {
+        "id" : 28,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Crime next door",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Gagan Pareek", "Aijaj Khan", "Boloram Das"],
+        "image" :"https://i.ibb.co/Ks7Y29V/maxresdefault-2.jpg"
+    },
+    {
+        "id" : 29,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Chattis aur maina",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Parag Chadha", "Nikhil Jaiswal", "Vikram Singh Chauhan"],
+        "image" :"https://i.ibb.co/1bpRjqp/Chattis-Aur-Maina-Disney-Hotstar-Web-Series-Cast-Release-Date-Watch-Online-Trailer.jpg"
+    },
+    {
+        "id" : 30,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"The return",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Surbhi Jyoti", "Shoaib Ibrahim", "Shaleen Malhotra"],
+        "image" :"https://i.ibb.co/Tt6s7wj/unnamed.jpg"
+    },
+    {
+        "id" : 31,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Six",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Mandira Bedi", "Nauheed Cyrusi", "Dipannita Sharma"],
+        "image" :"https://i.ibb.co/GC3LLQT/maxresdefault-7.jpg"
+    },
+    {
+        "id" : 32,
+        "category_id" : 1,
+        "subcategory_id" : 2,
+        "name" :"Bhopal vegas",
+        "rating" :4,
+        "runtime" :6,
+        "starcast" : ["Sonia Balani", "Ahaan Nirbaan", "Arun Sharma"],
+        "image" :"https://i.ibb.co/rMJ20vg/Bhopal-To-Vegas-Disney-Hotstar-Web-Series-Cast-Release-Date-Watch-Online.jpg"
+    }
+]

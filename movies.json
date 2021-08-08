@@ -1,0 +1,202 @@
+[
+    {
+        "id" : 1,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"The big bull",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Abhishek Bachchan","Ileana D'Cruz", "Sohum Shah"],
+        "image" :"https://i.ibb.co/GJBLK4s/the-big-bull-1617959152.jpg"
+    },
+    {
+        "id" : 2,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Angreji medium",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Irrfan Khan","Radhika Madan","Kareena Kapoor"],
+        "image" :"https://i.ibb.co/HzDqZmt/maxresdefault-8.jpg"
+    },
+    {
+        "id" : 3,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Baaghi 3",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Shraddha Kapoor", "Tiger Shroff", "Riteish Deshmukh"],
+        "image" :"https://i.ibb.co/FKbs8RF/maxresdefault-9.jpg"
+    },
+    {
+        "id" : 4,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Avengers",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Scarlett Johansson", "Robert Downey Jr.", "Chris Evans"],
+        "image" :"https://i.ibb.co/ynSmHff/9317c3fb92d45a42a911ad1a2140f8b1.jpg"
+    },
+    {
+        "id" : 5,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Tanhaji",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Ajay Devgn","Saif Ali Khan","Kajol"],
+        "image" :"https://i.ibb.co/GHG8Lb0/MV5-BOTk2-ZWEz-MGIt-YWQ3-NS00-Njhh-LWE1-Zj-Yt-NWRl-YWFi-MGUy-OWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Uw-Mj-Yw.jpg"
+    },
+    {
+        "id" : 6,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Humbhi akele tum bhi akele",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Zareen Khan","Anshuman Jha","Ravi Khanvilkar"],
+        "image" :"https://i.ibb.co/LdwcQ1r/hum-bhi-akele-tum-bhi-akele-poster-2.jpg"
+    },
+    {
+        "id" : 7,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Chhichhore",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Sushant Singh Rajput","Shraddha Kapoor","Varun Sharma"],
+        "image" :"https://i.ibb.co/FDhcZRL/91d6ab9adf2fa67cdeb900fe1e827142.jpg"
+    },
+    {
+        "id" : 8,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Houshefull 4",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Akshay Kumar","Riteish Deshmukh","Bobby Deol"],
+        "image" :"https://i.ibb.co/YbX07jV/housefull-4-movie-poster.jpg"
+    },
+    {
+        "id" : 9,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Total dhamal",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Ajay Devgn","Anil Kapoor","Madhuri Dixit"],
+        "image" :"https://i.ibb.co/vvKgNVh/753731-total-dhamaal-2.jpg"
+    },
+    {
+        "id" : 10,
+        "category_id" : 2,
+        "subcategory_id" : 6,
+        "name" :"Mission mangal",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Akshay Kumar","Vidya Balan","Sonakshi Sinha"],
+        "image" :"https://i.ibb.co/D7b9PK9/812446-mission-mangal-boxoffice.jpg"
+    },
+    {
+        "id" : 11,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"The lion king",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Donald Glover","Beyoncé Knowles-Carter","James Earl Jones"],
+        "image" :"https://i.ibb.co/dQQZwT9/the-lion-king-movie-poster.jpg"
+    },
+    {
+        "id" : 12,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Avengers: Endgame",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Scarlett Johansson", "Robert Downey Jr.", "Chris Evans"],
+        "image" :"https://i.ibb.co/ynSmHff/9317c3fb92d45a42a911ad1a2140f8b1.jpg"
+    },
+    {
+        "id" : 13,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Thor: Ragnarok",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Chris Hemsworth","Tom Hiddleston","Cate Blanchett"],
+        "image" :"https://i.ibb.co/7Jc9tbw/thor-r-emea-banner-52a30561.jpg"
+    },
+    {
+        "id" : 14,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Captain america: civil war",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Chris Evans","Robert Downey Jr","Scarlett Johansson"],
+        "image" :"https://i.ibb.co/mbbXDxx/wp1809509.jpg"
+    },
+    {
+        "id" : 15,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Frozen II",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Kristen Bell","Idina Menzel","Josh Gad"],
+        "image" :"https://i.ibb.co/M5cszZm/frozen-2-digital-poster.jpg"
+    },
+    {
+        "id" : 16,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Mulan",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Yifei Liu","Donnie Yen","Tzi Ma"],
+        "image" :"https://i.ibb.co/6snN4c1/1900475.jpg"
+    },
+    {
+        "id" : 17,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Doctor Strange",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Benedict Cumberbatch","Chiwetel Ejiofor","Rachel McAdams"],
+        "image" :"https://i.ibb.co/zhpx8B5/doctor-strange-2016-marvel-movies-benedict-cumberbatch-poster-doctor-strange-wallpaper-wallpaper-thu.jpg"
+    },
+    {
+        "id" : 18,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Black panther",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Chadwick Boseman","Michael B. Jordan","Lupita Nyong'o"],
+        "image" :"https://i.ibb.co/m8xmZfb/Black-Panther-movie.jpg"
+    },
+    {
+        "id" : 19,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Aladdin",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Will Smith","Mena Massoud","Naomi Scott"],
+        "image" :"https://i.ibb.co/6Hxcq0T/wp4682131.jpg"
+    },
+    {
+        "id" : 20,
+        "category_id" : 2,
+        "subcategory_id" : 7,
+        "name" :"Iron man 3",
+        "rating" :4.8,
+        "runtime" :2.50,
+        "starcast" : ["Robert Downey Jr.","Gwyneth Paltrow","Don Cheadle"],
+        "image" :"https://i.ibb.co/C7h4JhH/medium-pwl-iron-man-3-iron-man-wall-poster-13-19-inches-matte-original-imaek7n2czs7uczh.jpg"
+    }
+]

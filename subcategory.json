@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "subcategory" : "hotstar special"
+    },
+    {
+        "id": 2,
+        "subcategory" : "quix"
+    },
+    {
+        "id": 3,
+        "subcategory" : "star plus"
+    },
+    {
+        "id": 4,
+        "subcategory" : "star world"
+    },
+    {
+        "id": 5,
+        "subcategory" : "star bharat"
+    },
+    {
+        "id": 6,
+        "subcategory" : "hindi"
+    },
+    {
+        "id": 7,
+        "subcategory" : "english"
+    },
+    {
+        "id": 8,
+        "subcategory" : "telugu"
+    },
+    {
+        "id": 9,
+        "subcategory" : "tamil"
+    },
+    {
+        "id": 10,
+        "subcategory" : "bengali"
+    },
+    {
+        "id": 11,
+        "subcategory" : "cricket"
+    },
+    {
+        "id": 12,
+        "subcategory" : "football"
+    },
+    {
+        "id": 13,
+        "subcategory" : "formula 1"
+    },
+    {
+        "id": 14,
+        "subcategory" : "hockey"
+    },
+    {
+        "id": 15,
+        "subcategory" : "wrestling"
+    },
+    {
+        "id" : 16,
+        "subcategory" : ""
+    }
+]

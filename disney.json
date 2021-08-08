@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "category" : "tv"
+    },
+    {
+        "id" : 2,
+        "category" : "movies"
+    },
+    {
+        "id" : 3,
+        "category" : "sports"
+    },
+    {
+        "id" : 4,
+        "category" : "disney+"
+    },
+    {
+        "id" : 5,
+        "category" : "kids"
+    },
+    {
+        "id" : 6,
+        "category" : "home"
+    }
+]
